@@ -147,7 +147,7 @@ export const SERVICES: ServiceItem[] = [
       "Heritage furniture restoration and meticulous restyling",
       "Reinforced hardwood internal framing and high-resilience cushioning"
     ],
-    image: "/src/assets/images/upholstery_craftsmanship_1793174875809.jpg",
+    image: "/assets/images/upholstery_craftsmanship_1793174875809.jpg",
     isAuthenticMedia: false,
     illustrativeNote: "Illustrative representation of artisan upholstery craftsmanship at PeeFee workshop"
   },
@@ -163,7 +163,7 @@ export const SERVICES: ServiceItem[] = [
       "Exterior accent illumination and landscape wall integration",
       "Weather-resistant finishes suited for the South-South Nigerian climate"
     ],
-    image: "/src/assets/images/exterior_design_villa_1793174875380.jpg",
+    image: "/assets/images/exterior_design_villa_1793174875380.jpg",
     isAuthenticMedia: false,
     illustrativeNote: "Illustrative architectural exterior concept — replace with site-specific PeeFee build photo"
   },
@@ -179,7 +179,7 @@ export const SERVICES: ServiceItem[] = [
       "Concealed wiring for smart TVs, soundbars, and automation",
       "Balanced residential and commercial distribution installation"
     ],
-    image: "/src/assets/images/electrical_solutions_lighting_1793174877083.jpg",
+    image: "/assets/images/electrical_solutions_lighting_1793174877083.jpg",
     isAuthenticMedia: false,
     illustrativeNote: "Illustrative representation of architectural cove & magnetic track lighting"
   }
@@ -253,7 +253,7 @@ export const PROJECTS: ProjectItem[] = [
     categoryLabel: "Residential",
     serviceId: "exterior-design",
     serviceName: "Exterior Design & Architecture",
-    image: "/src/assets/images/exterior_design_villa_1793174875380.jpg",
+    image: "/assets/images/exterior_design_villa_1793174875380.jpg",
     isAuthenticWork: false,
     illustrativeNotice: "Illustrative exterior concept — replace with site-specific PeeFee build photo",
     location: "Port Harcourt Suburbs",
@@ -269,7 +269,7 @@ export const PROJECTS: ProjectItem[] = [
     categoryLabel: "Commercial",
     serviceId: "interior-design",
     serviceName: "Commercial Interior Design",
-    image: "/src/assets/images/commercial_office_lounge_1793174877851.jpg",
+    image: "/assets/images/commercial_office_lounge_1793174877851.jpg",
     isAuthenticWork: false,
     illustrativeNotice: "Illustrative commercial project — replace with verified client installation photo",
     location: "Port Harcourt Commercial District",
@@ -285,7 +285,7 @@ export const PROJECTS: ProjectItem[] = [
     categoryLabel: "Luxury",
     serviceId: "interior-design",
     serviceName: "Interior Design & Upholstery",
-    image: "/src/assets/images/luxury_penthouse_dining_1793174877882.jpg",
+    image: "/assets/images/luxury_penthouse_dining_1793174877882.jpg",
     isAuthenticWork: false,
     illustrativeNotice: "Illustrative luxury dining concept — replace with verified client installation photo",
     location: "Port Harcourt Penthouse",
