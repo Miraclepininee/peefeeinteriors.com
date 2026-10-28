@@ -1,0 +1,6 @@
+{
+  "name": "PeeFee Interiors",
+  "description": "Architectural design, luxury interior spaces, bespoke TV consoles, and upholstery craftsmanship in Port Harcourt, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

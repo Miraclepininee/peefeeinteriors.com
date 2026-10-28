@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-ivory: #FAF8F5;
+    --color-cream: #F4EFEA;
+    --color-sand: #E7E0D6;
+    --color-stone: #8C8278;
+    --color-espresso: #141312;
+    --color-charcoal: #1E1D1B;
+    --color-brass: #C5A880;
+    --color-brass-dark: #A9875A;
+  }
+
+  body {
+    background-color: var(--color-ivory);
+    color: var(--color-espresso);
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    letter-spacing: -0.01em;
+  }
+
+  h1, h2, h3, h4, .font-serif {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-feature-settings: "liga" 1, "kern" 1;
+  }
+}
+
+/* Custom editorial styling */
+.font-display {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  letter-spacing: -0.02em;
+}
+
+.font-body {
+  font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Hairline dividers */
+.border-hairline {
+  border-color: rgba(20, 19, 18, 0.08);
+}
+
+.border-hairline-dark {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Accessible focus styling */
+:focus-visible {
+  outline: 2px solid #C5A880;
+  outline-offset: 3px;
+}
